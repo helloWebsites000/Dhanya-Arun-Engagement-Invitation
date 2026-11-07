@@ -651,7 +651,7 @@
 
   if (shareBtn) {
     shareBtn.addEventListener("click", async () => {
-      const shareUrl = window.location.href;
+      const shareUrl = "https://hellowebsites000.github.io/Dhanya-Arun-Engagement-Invitation/";
       const shareData = {
         title: CONFIG.shareTitle,
         text: CONFIG.shareText,
